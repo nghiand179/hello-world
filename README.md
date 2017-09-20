@@ -1,2 +1,5 @@
 # hello-world
-Hello world
+
+Hi Everybody, 
+
+I'm a student at Fast Track SE
